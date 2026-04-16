@@ -22,7 +22,7 @@ An innovative platform that enables seamless collaboration among [AG2](https://g
 - **🧠 Multi-LLM Support**: OpenAI, Anthropic, Google, NVIDIA NIM, Ollama, and several others.
 - **🐳 Docker Support**: Pre-configured images for the core package, JupyterLab extension, and Waldiez Studio. [Check it out](https://hub.docker.com/u/waldiez)
 
-### 🎭 Wactorz — Spawn Agents on the Fly
+### <img alt="Wactorz Logo" style="width: 20px; height: auto;" loading="lazy" src="https://wactorz.waldiez.io/images/wactorz/favicon.svg"> Wactorz — Spawn Agents on the Fly
 
 An actor-model multi-agent framework built from scratch in Python for agents that run 24/7 on the edge. Describe what you want in natural language, and the LLM writes the code, wraps it in a `<spawn>` block, and a new live agent appears on the fly — no restarts, no handwritten infrastructure. Designed as part of the SYNAPSE project funded by dAIEDGE.
 
